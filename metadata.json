@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Duel",
+  "description": "A 2D silhouette martial arts fighting game inspired by classic shadow combat, featuring articulated weapon stances, parries, combos, and atmospheric Eastern dojos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
